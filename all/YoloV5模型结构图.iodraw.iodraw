@@ -193,8 +193,11 @@
         <mxCell id="KHtIFKI0pqsiky4mqn7A-66" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Backbone&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="840" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KHtIFKI0pqsiky4mqn7A-67" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Backbone&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KHtIFKI0pqsiky4mqn7A-67" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Neck&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KHtIFKI0pqsiky4mqn7A-68" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Backbone&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="850" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
