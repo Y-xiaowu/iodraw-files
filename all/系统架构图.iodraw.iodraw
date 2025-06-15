@@ -64,7 +64,7 @@
         <mxCell id="V-rmFFBvY0GXpjaL_MgT-26" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); text-align: start; white-space: pre;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;可见光摄像头&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="V-rmFFBvY0GXpjaL_MgT-24">
           <mxGeometry x="24" y="10" width="126" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="V-rmFFBvY0GXpjaL_MgT-27" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); text-align: start; white-space: pre;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;权限管理模块&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="V-rmFFBvY0GXpjaL_MgT-24">
+        <mxCell id="V-rmFFBvY0GXpjaL_MgT-27" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); text-align: start; white-space: pre;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;人员定位卡&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="V-rmFFBvY0GXpjaL_MgT-24">
           <mxGeometry x="470" y="10" width="126" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V-rmFFBvY0GXpjaL_MgT-28" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); text-align: start; white-space: pre;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;声光报警器 &lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="V-rmFFBvY0GXpjaL_MgT-24">
