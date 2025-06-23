@@ -43,13 +43,23 @@
         <mxCell id="Sl33uoyYog8XDlHwBhv2-14" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;实时监控&lt;/li&gt;&lt;li&gt;告警信息展示&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="490" y="590" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Sl33uoyYog8XDlHwBhv2-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Sl33uoyYog8XDlHwBhv2-17" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="304.5" y="430" as="sourcePoint" />
             <mxPoint x="304.5" y="480" as="targetPoint" />
             <Array as="points">
               <mxPoint x="304.5" y="450" />
               <mxPoint x="304.5" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sl33uoyYog8XDlHwBhv2-18" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="314.5" y="440" as="sourcePoint" />
+            <mxPoint x="314.5" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="314.5" y="460" />
+              <mxPoint x="314.5" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
