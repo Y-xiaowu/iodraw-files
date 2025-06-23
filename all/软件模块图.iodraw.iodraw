@@ -10,7 +10,7 @@
         <mxCell id="Sl33uoyYog8XDlHwBhv2-4" value="数据采集模块" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Sl33uoyYog8XDlHwBhv2-5" value="&lt;ul&gt;&lt;li&gt;图像采集&lt;/li&gt;&lt;li&gt;传感器数据&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="Sl33uoyYog8XDlHwBhv2-5" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;图像采集&lt;/li&gt;&lt;li&gt;传感器数据&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="320" y="300" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
