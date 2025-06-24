@@ -42,7 +42,7 @@
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-10" value="系统架构图" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uvbKRO6WpQPyyT7Qxsn5-12" value="系统架构图" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uvbKRO6WpQPyyT7Qxsn5-12" value="硬件选型" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
