@@ -104,19 +104,19 @@
         <mxCell id="7TngZMzp5P_2OKCOshHx-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="7TngZMzp5P_2OKCOshHx-24" target="7TngZMzp5P_2OKCOshHx-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7TngZMzp5P_2OKCOshHx-24" value="电路设计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="7TngZMzp5P_2OKCOshHx-24" value="电路设计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="545" y="150" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7TngZMzp5P_2OKCOshHx-25" value="硬件测试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="7TngZMzp5P_2OKCOshHx-25" value="硬件测试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="545" y="230" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7TngZMzp5P_2OKCOshHx-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="7TngZMzp5P_2OKCOshHx-27" target="7TngZMzp5P_2OKCOshHx-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7TngZMzp5P_2OKCOshHx-27" value="代码编程" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="7TngZMzp5P_2OKCOshHx-27" value="代码编程" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="685" y="150" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7TngZMzp5P_2OKCOshHx-28" value="单元测试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="7TngZMzp5P_2OKCOshHx-28" value="单元测试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="685" y="230" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7TngZMzp5P_2OKCOshHx-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="7TngZMzp5P_2OKCOshHx-30" target="7TngZMzp5P_2OKCOshHx-32">
