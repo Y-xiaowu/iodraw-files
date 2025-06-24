@@ -66,6 +66,9 @@
         <mxCell id="7TngZMzp5P_2OKCOshHx-19" value="硬件选型" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="215" y="530" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="7TngZMzp5P_2OKCOshHx-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7TngZMzp5P_2OKCOshHx-22" target="7TngZMzp5P_2OKCOshHx-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7TngZMzp5P_2OKCOshHx-22" value="模块划分" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="215" y="610" width="110" height="50" as="geometry" />
         </mxCell>
@@ -143,7 +146,12 @@
           <mxGeometry x="605" y="135" width="130" height="180" as="geometry" />
         </mxCell>
         <mxCell id="7TngZMzp5P_2OKCOshHx-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7TngZMzp5P_2OKCOshHx-47" target="7TngZMzp5P_2OKCOshHx-30">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="330" />
+              <mxPoint x="740" y="330" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="7TngZMzp5P_2OKCOshHx-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="745" y="135" width="130" height="180" as="geometry" />
