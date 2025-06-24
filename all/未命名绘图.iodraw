@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-51" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1340" width="340" height="290" as="geometry" />
+          <mxGeometry x="230" y="1300" width="340" height="290" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="1040" width="340" height="250" as="geometry" />
@@ -104,19 +104,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-24" value="功能测试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="345" y="1360" width="110" height="50" as="geometry" />
+          <mxGeometry x="345" y="1320" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="uvbKRO6WpQPyyT7Qxsn5-25" target="uvbKRO6WpQPyyT7Qxsn5-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-25" value="压力测试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="345" y="1440" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="uvbKRO6WpQPyyT7Qxsn5-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="uvbKRO6WpQPyyT7Qxsn5-26" target="uvbKRO6WpQPyyT7Qxsn5-29">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="345" y="1400" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-26" value="测试达标？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="337.5" y="1520" width="125" height="80" as="geometry" />
+          <mxGeometry x="337.5" y="1480" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="uvbKRO6WpQPyyT7Qxsn5-29" target="uvbKRO6WpQPyyT7Qxsn5-31">
           <mxGeometry relative="1" as="geometry" />
