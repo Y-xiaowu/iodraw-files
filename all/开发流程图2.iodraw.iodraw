@@ -79,7 +79,7 @@
         <mxCell id="7TngZMzp5P_2OKCOshHx-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="7TngZMzp5P_2OKCOshHx-19" target="7TngZMzp5P_2OKCOshHx-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7TngZMzp5P_2OKCOshHx-19" value="硬件选型" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="7TngZMzp5P_2OKCOshHx-19" value="硬件选型" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="242" y="530" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7TngZMzp5P_2OKCOshHx-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="7TngZMzp5P_2OKCOshHx-22" target="7TngZMzp5P_2OKCOshHx-3">
@@ -92,7 +92,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7TngZMzp5P_2OKCOshHx-22" value="模块划分" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="7TngZMzp5P_2OKCOshHx-22" value="模块划分" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="242" y="610" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7TngZMzp5P_2OKCOshHx-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="7TngZMzp5P_2OKCOshHx-24" target="7TngZMzp5P_2OKCOshHx-25">
@@ -176,7 +176,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7TngZMzp5P_2OKCOshHx-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7TngZMzp5P_2OKCOshHx-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="535" y="110" width="130" height="180" as="geometry" />
         </mxCell>
         <mxCell id="7TngZMzp5P_2OKCOshHx-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7TngZMzp5P_2OKCOshHx-47" target="7TngZMzp5P_2OKCOshHx-30">
