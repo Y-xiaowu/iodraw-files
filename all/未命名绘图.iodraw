@@ -197,6 +197,9 @@
         <mxCell id="GQoqnDxa7Mz7dLgUi4E4-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="465" y="1480" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GQoqnDxa7Mz7dLgUi4E4-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;开发阶段&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=6;spacingRight=6;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1365" width="30" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
