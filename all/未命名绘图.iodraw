@@ -90,8 +90,14 @@
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-26" value="测试达标？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="1860" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uvbKRO6WpQPyyT7Qxsn5-29" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uvbKRO6WpQPyyT7Qxsn5-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uvbKRO6WpQPyyT7Qxsn5-29" target="uvbKRO6WpQPyyT7Qxsn5-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uvbKRO6WpQPyyT7Qxsn5-29" value="井下安装" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="2030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uvbKRO6WpQPyyT7Qxsn5-31" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
