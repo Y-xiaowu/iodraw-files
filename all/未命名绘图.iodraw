@@ -13,8 +13,14 @@
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-3" value="煤矿调研" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uvbKRO6WpQPyyT7Qxsn5-4" value="煤矿调研" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uvbKRO6WpQPyyT7Qxsn5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uvbKRO6WpQPyyT7Qxsn5-4" target="uvbKRO6WpQPyyT7Qxsn5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uvbKRO6WpQPyyT7Qxsn5-4" value="需求文档" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uvbKRO6WpQPyyT7Qxsn5-6" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="770" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
