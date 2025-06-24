@@ -33,8 +33,8 @@
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="uvbKRO6WpQPyyT7Qxsn5-6" target="uvbKRO6WpQPyyT7Qxsn5-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uvbKRO6WpQPyyT7Qxsn5-6" value="评审通过" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="310" y="770" width="130" height="80" as="geometry" />
+        <mxCell id="uvbKRO6WpQPyyT7Qxsn5-6" value="评审通过？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="335" y="770" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-9" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="430" y="783" width="40" height="40" as="geometry" />
