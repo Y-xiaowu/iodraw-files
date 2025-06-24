@@ -176,7 +176,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7TngZMzp5P_2OKCOshHx-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="7TngZMzp5P_2OKCOshHx-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="535" y="110" width="130" height="180" as="geometry" />
         </mxCell>
         <mxCell id="7TngZMzp5P_2OKCOshHx-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7TngZMzp5P_2OKCOshHx-47" target="7TngZMzp5P_2OKCOshHx-30">
