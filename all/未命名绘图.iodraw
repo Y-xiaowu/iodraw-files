@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-26" value="测试达标？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1860" width="80" height="80" as="geometry" />
+          <mxGeometry x="302.5" y="1850" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="uvbKRO6WpQPyyT7Qxsn5-29" target="uvbKRO6WpQPyyT7Qxsn5-31">
           <mxGeometry relative="1" as="geometry" />
