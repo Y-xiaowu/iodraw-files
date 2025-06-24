@@ -91,13 +91,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-26" value="测试达标？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="302.5" y="1850" width="125" height="80" as="geometry" />
+          <mxGeometry x="302.5" y="1750" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="uvbKRO6WpQPyyT7Qxsn5-29" target="uvbKRO6WpQPyyT7Qxsn5-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-29" value="井下安装" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="310" y="2030" width="110" height="50" as="geometry" />
+          <mxGeometry x="310" y="1860" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="uvbKRO6WpQPyyT7Qxsn5-31" target="uvbKRO6WpQPyyT7Qxsn5-33">
           <mxGeometry relative="1" as="geometry" />
