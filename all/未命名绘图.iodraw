@@ -58,10 +58,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-17" value="电路设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1350" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-18" value="硬件测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1490" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uvbKRO6WpQPyyT7Qxsn5-21" target="uvbKRO6WpQPyyT7Qxsn5-22">
           <mxGeometry relative="1" as="geometry" />
