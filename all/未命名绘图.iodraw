@@ -61,19 +61,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-17" value="电路设计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1060" width="110" height="50" as="geometry" />
+          <mxGeometry x="280" y="1060" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-18" value="硬件测试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1140" width="110" height="50" as="geometry" />
+          <mxGeometry x="280" y="1140" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="uvbKRO6WpQPyyT7Qxsn5-21" target="uvbKRO6WpQPyyT7Qxsn5-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-21" value="代码编程" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="427.5" y="1060" width="110" height="50" as="geometry" />
+          <mxGeometry x="417.5" y="1060" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-22" value="单元测试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="427.5" y="1140" width="110" height="50" as="geometry" />
+          <mxGeometry x="417.5" y="1140" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="uvbKRO6WpQPyyT7Qxsn5-24" target="uvbKRO6WpQPyyT7Qxsn5-25">
           <mxGeometry relative="1" as="geometry" />
