@@ -55,13 +55,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-10" value="系统架构图" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="345" y="800" width="110" height="50" as="geometry" />
+          <mxGeometry x="345" y="790" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="uvbKRO6WpQPyyT7Qxsn5-12" target="uvbKRO6WpQPyyT7Qxsn5-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-12" value="硬件选型" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="345" y="880" width="110" height="50" as="geometry" />
+          <mxGeometry x="345" y="870" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uvbKRO6WpQPyyT7Qxsn5-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uvbKRO6WpQPyyT7Qxsn5-14" target="uvbKRO6WpQPyyT7Qxsn5-45">
           <mxGeometry relative="1" as="geometry">
