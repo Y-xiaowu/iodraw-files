@@ -130,6 +130,11 @@
             <mxPoint x="1020" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7TngZMzp5P_2OKCOshHx-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7TngZMzp5P_2OKCOshHx-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7TngZMzp5P_2OKCOshHx-35" value="测试达标？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="677.5" y="540" width="125" height="80" as="geometry" />
         </mxCell>
