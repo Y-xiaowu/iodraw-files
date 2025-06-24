@@ -92,8 +92,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="297" y="710" />
-              <mxPoint x="470" y="710" />
-              <mxPoint x="470" y="60" />
+              <mxPoint x="480" y="710" />
+              <mxPoint x="480" y="60" />
               <mxPoint x="665" y="60" />
             </Array>
           </mxGeometry>
@@ -159,7 +159,7 @@
         <mxCell id="7TngZMzp5P_2OKCOshHx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="7TngZMzp5P_2OKCOshHx-39" target="7TngZMzp5P_2OKCOshHx-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7TngZMzp5P_2OKCOshHx-39" value="试运行" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="7TngZMzp5P_2OKCOshHx-39" value="试运行" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="615" y="735" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7TngZMzp5P_2OKCOshHx-40" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
