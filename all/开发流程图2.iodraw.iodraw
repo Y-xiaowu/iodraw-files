@@ -44,13 +44,13 @@
         <mxCell id="7TngZMzp5P_2OKCOshHx-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="7TngZMzp5P_2OKCOshHx-9" target="7TngZMzp5P_2OKCOshHx-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7TngZMzp5P_2OKCOshHx-9" value="煤矿调研" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="7TngZMzp5P_2OKCOshHx-9" value="煤矿调研" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="242" y="140" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7TngZMzp5P_2OKCOshHx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="7TngZMzp5P_2OKCOshHx-11" target="7TngZMzp5P_2OKCOshHx-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7TngZMzp5P_2OKCOshHx-11" value="需求文档" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="7TngZMzp5P_2OKCOshHx-11" value="需求文档" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="242" y="220" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7TngZMzp5P_2OKCOshHx-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="7TngZMzp5P_2OKCOshHx-14" target="7TngZMzp5P_2OKCOshHx-17">
@@ -64,7 +64,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7TngZMzp5P_2OKCOshHx-14" value="评审通过？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="7TngZMzp5P_2OKCOshHx-14" value="评审通过？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="232" y="300" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7TngZMzp5P_2OKCOshHx-15" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
