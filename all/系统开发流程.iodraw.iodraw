@@ -7,6 +7,9 @@
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="NFaYQe6tM5vj-YtK-pWh-1" target="NFaYQe6tM5vj-YtK-pWh-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NFaYQe6tM5vj-YtK-pWh-1" target="NFaYQe6tM5vj-YtK-pWh-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-1" value="问题的定义及规划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="150" y="140" width="120" height="60" as="geometry" />
         </mxCell>
@@ -52,7 +55,7 @@
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-21" value="测试报告" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;glass=0;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="330" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-22" value="运行说明" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;" vertex="1" parent="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-22" value="运行说明" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="330" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
