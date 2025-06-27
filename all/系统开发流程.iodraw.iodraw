@@ -61,13 +61,10 @@
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-19" value="代码文件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;dashed=1;" edge="1" parent="1" source="NFaYQe6tM5vj-YtK-pWh-21" target="NFaYQe6tM5vj-YtK-pWh-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-21" value="测试报告" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-21" value="测试报告" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-22" value="运行说明" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;dashed=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-22" value="运行说明" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
