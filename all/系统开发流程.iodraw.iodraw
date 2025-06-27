@@ -67,7 +67,7 @@
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-21" value="测试报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-22" value="运行维护" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-22" value="运行说明" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
