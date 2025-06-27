@@ -46,13 +46,13 @@
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NFaYQe6tM5vj-YtK-pWh-15" target="NFaYQe6tM5vj-YtK-pWh-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-15" value="需求分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-15" value="需求分析文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NFaYQe6tM5vj-YtK-pWh-17" target="NFaYQe6tM5vj-YtK-pWh-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-17" value="软硬件设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-17" value="架构设计文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NFaYQe6tM5vj-YtK-pWh-19" target="NFaYQe6tM5vj-YtK-pWh-21">
