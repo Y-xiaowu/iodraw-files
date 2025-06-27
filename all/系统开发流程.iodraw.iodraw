@@ -40,13 +40,13 @@
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;dashed=1;" edge="1" parent="1" source="NFaYQe6tM5vj-YtK-pWh-13" target="NFaYQe6tM5vj-YtK-pWh-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-13" value="用户需求文档&amp;amp;可行性研究" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;dashed=1;" vertex="1" parent="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-13" value="用户需求文档&amp;amp;可行性研究" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;dashed=1;" edge="1" parent="1" source="NFaYQe6tM5vj-YtK-pWh-15" target="NFaYQe6tM5vj-YtK-pWh-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-15" value="需求分析文档" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;dashed=1;" vertex="1" parent="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-15" value="需求分析文档" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;dashed=1;" edge="1" parent="1" source="NFaYQe6tM5vj-YtK-pWh-17" target="NFaYQe6tM5vj-YtK-pWh-19">
