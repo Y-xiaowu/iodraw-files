@@ -58,13 +58,13 @@
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NFaYQe6tM5vj-YtK-pWh-19" target="NFaYQe6tM5vj-YtK-pWh-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-19" value="代码编程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-19" value="代码文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NFaYQe6tM5vj-YtK-pWh-21" target="NFaYQe6tM5vj-YtK-pWh-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-21" value="软硬件测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-21" value="测试报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-22" value="运行维护" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
