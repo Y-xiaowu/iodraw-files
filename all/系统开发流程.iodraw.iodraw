@@ -47,13 +47,13 @@
           <mxGeometry x="330" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-19" value="代码文件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-21" value="测试报告" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-22" value="运行说明" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
