@@ -16,8 +16,20 @@
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-2" value="需求分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NFaYQe6tM5vj-YtK-pWh-4" target="NFaYQe6tM5vj-YtK-pWh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-4" value="软硬件设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NFaYQe6tM5vj-YtK-pWh-6" target="NFaYQe6tM5vj-YtK-pWh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-6" value="代码编程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-8" value="代码编程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
