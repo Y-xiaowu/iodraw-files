@@ -19,13 +19,13 @@
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="NFaYQe6tM5vj-YtK-pWh-4" target="NFaYQe6tM5vj-YtK-pWh-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-4" value="软硬件设计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-4" value="&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;确定各项数据典型阈值&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="150" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="NFaYQe6tM5vj-YtK-pWh-6" target="NFaYQe6tM5vj-YtK-pWh-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-6" value="代码编程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-6" value="&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;收集相同时间维度动态载荷数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="150" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="NFaYQe6tM5vj-YtK-pWh-8" target="NFaYQe6tM5vj-YtK-pWh-10" edge="1">
