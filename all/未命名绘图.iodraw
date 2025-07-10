@@ -7,7 +7,7 @@
         <mxCell id="vsAiHN41y5V374IUJc90-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="NFaYQe6tM5vj-YtK-pWh-1" target="NFaYQe6tM5vj-YtK-pWh-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-1" value="&lt;span style=&quot;font-size: 17px; text-align: left;&quot;&gt;采集动力部工况监测数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Helvetica;spacingTop=5;spacingBottom=5;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-1" value="&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;获取轴承、齿轮等关键零部件理论数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Helvetica;spacingTop=5;spacingBottom=5;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
           <mxGeometry x="150" y="130" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vsAiHN41y5V374IUJc90-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="NFaYQe6tM5vj-YtK-pWh-2" target="NFaYQe6tM5vj-YtK-pWh-4">
