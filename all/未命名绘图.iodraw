@@ -4,37 +4,37 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontFamily=Helvetica;" parent="1" source="NFaYQe6tM5vj-YtK-pWh-1" target="NFaYQe6tM5vj-YtK-pWh-2" edge="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontFamily=Helvetica;spacingTop=5;spacingBottom=5;spacingLeft=1;" parent="1" source="NFaYQe6tM5vj-YtK-pWh-1" target="NFaYQe6tM5vj-YtK-pWh-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-1" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;采集动力部工况监测数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-1" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;采集动力部工况监测数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Helvetica;spacingTop=5;spacingBottom=5;spacingLeft=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="140" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontFamily=Helvetica;" parent="1" source="NFaYQe6tM5vj-YtK-pWh-2" target="NFaYQe6tM5vj-YtK-pWh-4" edge="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontFamily=Helvetica;spacingTop=5;spacingBottom=5;spacingLeft=1;" parent="1" source="NFaYQe6tM5vj-YtK-pWh-2" target="NFaYQe6tM5vj-YtK-pWh-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-2" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;数据清洗（去除异常值、缺失值）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-2" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;数据清洗（去除异常值、缺失值）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;spacingTop=5;spacingBottom=5;spacingLeft=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontFamily=Helvetica;" parent="1" source="NFaYQe6tM5vj-YtK-pWh-4" target="NFaYQe6tM5vj-YtK-pWh-6" edge="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontFamily=Helvetica;spacingTop=5;spacingBottom=5;spacingLeft=1;" parent="1" source="NFaYQe6tM5vj-YtK-pWh-4" target="NFaYQe6tM5vj-YtK-pWh-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-4" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;确定各项数据典型阈值&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-4" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;确定各项数据典型阈值&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Helvetica;spacingTop=5;spacingBottom=5;spacingLeft=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontFamily=Helvetica;" parent="1" source="NFaYQe6tM5vj-YtK-pWh-6" target="NFaYQe6tM5vj-YtK-pWh-8" edge="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontFamily=Helvetica;spacingTop=5;spacingBottom=5;spacingLeft=1;" parent="1" source="NFaYQe6tM5vj-YtK-pWh-6" target="NFaYQe6tM5vj-YtK-pWh-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-6" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;收集相同时间维度动态载荷数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-6" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;收集相同时间维度动态载荷数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;spacingTop=5;spacingBottom=5;spacingLeft=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontFamily=Helvetica;" parent="1" source="NFaYQe6tM5vj-YtK-pWh-8" target="NFaYQe6tM5vj-YtK-pWh-10" edge="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontFamily=Helvetica;spacingTop=5;spacingBottom=5;spacingLeft=1;" parent="1" source="NFaYQe6tM5vj-YtK-pWh-8" target="NFaYQe6tM5vj-YtK-pWh-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-8" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;加载工况数据典型阈值&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fad7ac;strokeColor=#b46504;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-8" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;加载工况数据典型阈值&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fad7ac;strokeColor=#b46504;fontFamily=Helvetica;spacingTop=5;spacingBottom=5;spacingLeft=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-10" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;建立数据阈值模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="NFaYQe6tM5vj-YtK-pWh-10" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;建立数据阈值模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=Helvetica;spacingTop=5;spacingBottom=5;spacingLeft=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
