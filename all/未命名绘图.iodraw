@@ -37,6 +37,9 @@
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-10" value="运行维护" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="150" y="590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vsAiHN41y5V374IUJc90-1" value="graph TD&#xa;    A[采集动力部工况监测数据] --&gt; B[数据清洗（去除异常值、缺失值）]&#xa;    B --&gt; C[确定各项数据典型阈值]&#xa;    C --&gt; D[收集相同时间维度动态载荷数据]&#xa;    D --&gt; E[加载工况数据典型阈值]&#xa;    E --&gt; F[建立数据阈值模型]" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="400" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
