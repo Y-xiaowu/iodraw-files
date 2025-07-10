@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="gU1r0dyHRVa5XvxbDfHL">
-    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-1" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;采集动力部工况监测数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Helvetica;spacingTop=5;spacingBottom=5;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
-          <mxGeometry x="155" y="130" width="190" height="70" as="geometry" />
+          <mxGeometry x="150" y="130" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-2" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;数据清洗（去除异常值、缺失值）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Helvetica;spacingTop=5;spacingBottom=5;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
           <mxGeometry x="150" y="240" width="200" height="70" as="geometry" />
