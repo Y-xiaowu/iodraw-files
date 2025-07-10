@@ -37,33 +37,6 @@
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-10" value="运行维护" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="150" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-19" value="代码文件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="340" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-21" value="测试报告" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;glass=0;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="340" y="500" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-22" value="运行说明" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="340" y="590" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-25" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.38888753255208336;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="290" y="250" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-27" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.38888753255208336;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="290" y="160" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-28" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.38888753255208336;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="290" y="340" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-29" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.38888753255208336;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="290" y="430" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-30" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.38888753255208336;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="290" y="520" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NFaYQe6tM5vj-YtK-pWh-31" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.38888753255208336;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="290" y="610" width="30" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
