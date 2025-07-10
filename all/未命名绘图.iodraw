@@ -20,7 +20,7 @@
           <mxGeometry x="150" y="520" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NFaYQe6tM5vj-YtK-pWh-10" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;建立数据阈值模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fad9d5;strokeColor=#ae4132;fontFamily=Helvetica;spacingTop=5;spacingBottom=5;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
-          <mxGeometry x="152.5" y="620" width="195" height="60" as="geometry" />
+          <mxGeometry x="152.5" y="620" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
