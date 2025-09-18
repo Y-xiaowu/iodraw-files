@@ -49,8 +49,8 @@
         <mxCell id="IPsZwEEePl0p_LzTDrRv-7" value="附属功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="640" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IPsZwEEePl0p_LzTDrRv-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="450" width="60" height="30" as="geometry" />
+        <mxCell id="IPsZwEEePl0p_LzTDrRv-8" value="核心功能模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="359" y="640" width="81" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
