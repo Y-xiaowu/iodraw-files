@@ -37,7 +37,7 @@
         <mxCell id="IPsZwEEePl0p_LzTDrRv-2" value="&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;人工判读&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;A&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;P&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;P&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingTop=6;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="690" y="360" width="50" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="IPsZwEEePl0p_LzTDrRv-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IPsZwEEePl0p_LzTDrRv-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="545" y="340" width="225" height="310" as="geometry" />
         </mxCell>
       </root>
