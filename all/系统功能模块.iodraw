@@ -7,7 +7,7 @@
         <mxCell id="IPsZwEEePl0p_LzTDrRv-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;dashed=1;dashPattern=8 8;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="240" y="345" width="300" height="325" as="geometry" />
         </mxCell>
-        <mxCell id="IPsZwEEePl0p_LzTDrRv-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="IPsZwEEePl0p_LzTDrRv-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="560" y="345" width="200" height="325" as="geometry" />
         </mxCell>
         <mxCell id="w88W-FtS74OWs6zcs_gY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="w88W-FtS74OWs6zcs_gY-1" target="w88W-FtS74OWs6zcs_gY-4" edge="1">
@@ -49,7 +49,7 @@
         <mxCell id="IPsZwEEePl0p_LzTDrRv-7" value="附属功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="640" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IPsZwEEePl0p_LzTDrRv-8" value="&lt;b&gt;核心功能模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IPsZwEEePl0p_LzTDrRv-8" value="核心功能模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="640" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
