@@ -16,7 +16,7 @@
         <mxCell id="U5NYBAIntsQJK15mvMeA-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;外部设备连接&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingTop=6;spacingLeft=6;spacingRight=6;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="330" y="320" width="50" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="U5NYBAIntsQJK15mvMeA-5" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;迷彩基于对抗的评价&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingTop=6;spacingLeft=6;spacingRight=6;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="U5NYBAIntsQJK15mvMeA-5" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;视频数据接收&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingTop=6;spacingLeft=6;spacingRight=6;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="530" y="320" width="50" height="250" as="geometry" />
         </mxCell>
       </root>
