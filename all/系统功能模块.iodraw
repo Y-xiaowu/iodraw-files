@@ -25,9 +25,6 @@
         <mxCell id="w88W-FtS74OWs6zcs_gY-5" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;迷彩图案效果评价模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingTop=6;spacingLeft=6;spacingRight=6;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="470" y="360" width="50" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="IPsZwEEePl0p_LzTDrRv-8" value="核心功能模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="640" width="100" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
