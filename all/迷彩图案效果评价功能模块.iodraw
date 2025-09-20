@@ -13,7 +13,7 @@
         <mxCell id="w88W-FtS74OWs6zcs_gY-1" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;迷彩图案效果评价功能模块&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="310" y="260" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="w88W-FtS74OWs6zcs_gY-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;迷彩客观指标评价&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingTop=6;spacingLeft=6;spacingRight=6;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="w88W-FtS74OWs6zcs_gY-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;迷彩图案相似度评价&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingTop=6;spacingLeft=6;spacingRight=6;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="320" y="360" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ZDsqgRLUN2XejyIPMBdL-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;迷彩基于对抗的评价&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingTop=6;spacingLeft=6;spacingRight=6;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
