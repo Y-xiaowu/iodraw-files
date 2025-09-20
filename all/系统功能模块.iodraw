@@ -14,10 +14,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w88W-FtS74OWs6zcs_gY-1" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;基于人工和&lt;/span&gt;&lt;span style=&quot;font-size: 14pt;&quot; lang=&quot;EN-US&quot;&gt;CV&lt;/span&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;的伪装测评系统&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="280" y="220" width="290" height="60" as="geometry" />
+          <mxGeometry x="230" y="220" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w88W-FtS74OWs6zcs_gY-3" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;基础操作模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingTop=6;spacingLeft=6;spacingRight=6;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="240" y="360" width="50" height="280" as="geometry" />
+          <mxGeometry x="210" y="360" width="50" height="280" as="geometry" />
         </mxCell>
         <mxCell id="w88W-FtS74OWs6zcs_gY-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;迷彩图案生成模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;spacingTop=6;spacingLeft=6;spacingRight=6;fontFamily=Helvetica;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="350" y="360" width="50" height="280" as="geometry" />
