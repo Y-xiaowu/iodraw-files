@@ -46,7 +46,7 @@
         <mxCell id="NE6yd7QTgTTyQgLcFrvz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="5rZ75c96xjykuET9I_0A-10" target="5rZ75c96xjykuET9I_0A-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NE6yd7QTgTTyQgLcFrvz-2" value="传递图像数据、接收相似度指标" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NE6yd7QTgTTyQgLcFrvz-1">
+        <mxCell id="NE6yd7QTgTTyQgLcFrvz-2" value="传递图像数据、接收相似度指标" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=16;" vertex="1" connectable="0" parent="NE6yd7QTgTTyQgLcFrvz-1">
           <mxGeometry x="0.001" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
